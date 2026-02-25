@@ -1,6 +1,6 @@
 # Hi, I'm satrialfata👋:
 
-🚀 Data Science student passionate about Machine Learning. <br>🧠 Focused on machine learning and AI engineer.
+🚀 Data Science student. <br>🧠 Focused on machine learning and AI engineer.
 
 ## 🌐 Socials:
 
