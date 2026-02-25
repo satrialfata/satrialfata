@@ -1,6 +1,6 @@
-# 💫 About Me:
+# Hi, I'm satrialfata👋:
 
-Hi, I'm satrialfata👋<br><br>🚀 Data Science student passionate about Machine Learning. <br>📊 Turning raw data into meaningful insights and predictive models. <br>🧠 Focused on continuous learning, analytical thinking, and building impactful data projects.
+<br><br>🚀 Data Science student passionate about Machine Learning. <br>🧠 Focused on machine learning and AI engineer.
 
 ## 🌐 Socials:
 
